@@ -13,3 +13,6 @@ If not, you may ask within an issue on the specific addon.
 ## Bugs
 If you find any issues/bugs with our addons you may create an issue in the addons repository.\
 Maybe we'll take a look.
+
+## Language
+All of our addons are written in German. If you need any other language and have some spare time, feel free to add some kind of localization functionality to our addons.
